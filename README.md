@@ -1,5 +1,3 @@
-# PinterestHomeUIClone
-
 # Informações
 * Projeto feito para praticar os conceitos de front end / design;
 * Página web com o design da home do Pinterest;
